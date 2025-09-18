@@ -1,0 +1,29 @@
+{
+  "looks_like_ip": false,
+  "suspicious_chars": false,
+  "https_ok": true,
+  "https_valid": true,
+  "cert_info": {
+    "expires": "2025-12-31T23:59:59",
+    "issuer": { "organizationName": "Google Trust Services" }
+  },
+  "whois": {
+    "domain": "google.com",
+    "created": "1997-09-15T00:00:00",
+    "age_days": 10254,
+    "registrar": "MarkMonitor Inc."
+  },
+  "page_info": {
+    "status_code": 200,
+    "final_url": "https://www.google.com/",
+    "len": 15562,
+    "num_forms": 1,
+    "sensitive_inputs": [],
+    "phishing_keywords_found": []
+  },
+  "heuristic": {
+    "score": 0,
+    "level": "likely safe",
+    "reasons": []
+  }
+}
