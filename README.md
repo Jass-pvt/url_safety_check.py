@@ -7,6 +7,6 @@ It performs multiple layers of analysis, including:
 - SSL/TLS certificate validation
 - WHOIS domain age lookup
 - Webpage content analysis (forms, phishing keywords)
-- Integration with VirusTotal & Google Safe Browsing APIs (optional)
+
 
 Helps in identifying potentially malicious, phishing, or unsafe websites.
