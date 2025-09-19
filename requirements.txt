@@ -1,0 +1,4 @@
+requests
+tldextract
+python-whois
+cryptography
