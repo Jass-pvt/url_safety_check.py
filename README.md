@@ -21,6 +21,6 @@ Below is a sample run of the **URL Safety Checker**, showing analysis results fo
 The screenshot demonstrates:
 - URL analysis with SSL certificate details. 
 - WHOIS information (domain age, registrar).
-- Page content checks (forms, phishing keywords) . 
+- Page content checks (forms, phishing keywords).
 - Heuristic scoring (final safety level).
 
