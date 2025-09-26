@@ -3,10 +3,10 @@ A Python tool to analyze URLs for safety using SSL checks, WHOIS domain info, ph
 
 🔒 URL Safety Checker is a Python-based tool that evaluates the security of any URL.  
 It performs multiple layers of analysis, including:
-- Heuristic detection of suspicious patterns in URLs
-- SSL/TLS certificate validation
-- WHOIS domain age lookup
-- Webpage content analysis (forms, phishing keywords)
+- Heuristic detection of suspicious patterns in URLs.
+- SSL/TLS certificate validation.
+- WHOIS domain age lookup.
+- Webpage content analysis (forms, phishing keywords).
 
 
 Helps in identifying potentially malicious, phishing, or unsafe websites.
