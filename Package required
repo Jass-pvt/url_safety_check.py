@@ -3,3 +3,6 @@ import re
 import ssl
 import socket
 import argparse
+import requests
+import tldextract
+import whois
