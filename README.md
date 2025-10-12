@@ -23,4 +23,3 @@ The screenshot demonstrates:
 - WHOIS information (domain age, registrar).
 - Page content checks (forms, phishing keywords).
 - Heuristic scoring (final safety level).
-
