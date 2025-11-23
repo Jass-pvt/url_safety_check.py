@@ -10,7 +10,7 @@ import whois
 from datetime import datetime  
    
 # ---------------------  
-# Basic heuristics
+# Basic heuristics    
 # ---------------------
 def looks_like_ip(url):
     try:
@@ -215,6 +215,7 @@ url_to_check = "https://www.google.com" # Replace with the URL you want to check
 result = run_checks(url_to_check)
 import json
 print(json.dumps(result, indent=2, default=str))
+
 
 
 
