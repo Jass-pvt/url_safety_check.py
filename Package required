@@ -8,5 +8,4 @@ import tldextract
 import whois 
 
 from urllib.parse import urlparse
-
 from datetime import datetime
