@@ -5,7 +5,7 @@ import socket
 import argparse
 import requests
 import tldextract
-import whois
+import whois 
 
 from urllib.parse import urlparse
 
