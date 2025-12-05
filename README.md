@@ -19,7 +19,7 @@ The screenshot demonstrates:
 - WHOIS information (domain age, registrar).
 - Page content checks (forms, phishing keywords).
 - Heuristic scoring (final safety level).
-- 
+
 Below is a sample run of the **URL Safety Checker**, showing analysis results for a website:
 
 ![URL Safety Check Example](url_safety_check.jpeg)
