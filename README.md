@@ -8,7 +8,7 @@ It performs multiple layers of analysis, including:
 - WHOIS domain age lookup.
 - Webpage content analysis (forms, phishing keywords).
 
-
+ 
 Helps in identifying potentially malicious, phishing, or unsafe websites.
 
 ## 📸 Screenshots
