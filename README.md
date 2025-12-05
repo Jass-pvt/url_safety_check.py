@@ -14,12 +14,14 @@ Helps in identifying potentially malicious, phishing, or unsafe websites.
 ## 📸 Screenshots
 
 ### Example Output in Action
-Below is a sample run of the **URL Safety Checker**, showing analysis results for a website:
-
-![URL Safety Check Example](url_safety_check.jpeg)
-
 The screenshot demonstrates:
 - URL analysis with SSL certificate details. 
 - WHOIS information (domain age, registrar).
 - Page content checks (forms, phishing keywords).
 - Heuristic scoring (final safety level).
+- 
+Below is a sample run of the **URL Safety Checker**, showing analysis results for a website:
+
+![URL Safety Check Example](url_safety_check.jpeg)
+
+
