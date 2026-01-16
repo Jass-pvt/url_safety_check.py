@@ -13,7 +13,7 @@ Helps in identifying potentially malicious, phishing, or unsafe websites.
 
 ## 📸 Screenshots
 
-### Example Output in Action
+### Example Output in Action 
 The screenshot demonstrates:
 - URL analysis with SSL certificate details. 
 - WHOIS information (domain age, registrar).
