@@ -10,7 +10,7 @@ It performs multiple layers of analysis, including:
  
  
 Helps in identifying potentially malicious, phishing, or unsafe websites.
-
+ 
 ## 📸 Screenshots
 
 ### Example Output in Action 
